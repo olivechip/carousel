@@ -10,6 +10,7 @@ function Card(props) {
         Image {props.currNum} of {props.totalNum}.
       </small>
     </div>
+    
   );
 }
 
